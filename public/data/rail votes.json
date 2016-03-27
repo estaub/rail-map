@@ -1,0 +1,2781 @@
+[
+  {
+    "Representative":"Abbott, Michael",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":1,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Abel, Richard",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":13,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Abrami, Patrick",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":19,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Abramson, Max",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":20,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Adams, Christopher",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":26,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Aldrich, Glen",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Alicea, Caroletta",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":8,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Allen, Mary",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":15,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Almy, Susan",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":13,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Ames, Richard",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":9,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Ammon, Keith",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":40,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Avellani, Lino",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Azarian, Gary",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":8,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Baber, William",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":14,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Backus, Robert",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":19,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Bailey, Brad",
+    "Party":"Republican",
+    "County":"Grafton",
+    "DistNum":14,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Balcom, John",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":21,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Baldasaro, Alfred",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Barnes, Arthur",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":8,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Baroody, Benjamin",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":43,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Barry, Richard",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":21,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Bartlett, Christy",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":19,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Bates, David",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Beaudoin, Steven",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":9,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Beaulieu, Jane",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":45,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Belanger, James",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":27,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Belanger, Ronald",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":8,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Bennett, Travis",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":8,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Berch, Paul",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":1,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Berrien, Skip",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":18,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Berube, Roger",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":18,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Bickford, David",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":3,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Biggie, Barbara",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":23,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Bixby, Peter",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":17,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Boehm, Ralph",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":20,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Booras, Efstathia",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":33,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Borden, David",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":24,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Bordenet, John",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":5,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Bouldin, Amanda",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":12,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Bradley, Paula",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":18,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Brewster, Michael",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":21,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Bridge, Ernest",
+    "Party":"Republican",
+    "County":"Sullivan",
+    "DistNum":6,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Brown, Chris",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":12,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Brown, Duane",
+    "Party":"Republican",
+    "County":"Grafton",
+    "DistNum":16,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Brown, Pamela",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":31,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Brown, Rebecca",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":2,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Buco, Thomas",
+    "Party":"Democrat",
+    "County":"Carroll",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Burt, John",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":39,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Burton, Wayne",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Bush, Carol",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":31,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Butler, Edward",
+    "Party":"Democrat",
+    "County":"Carroll",
+    "DistNum":7,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Byron, Frank",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":20,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Cahill, Michael",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":17,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Cali-Pitts, Jacqueline",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":30,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Cardon, G. Thomas",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Carson, Clyde",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":7,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Chandler, Gene",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":1,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Chase, Cynthia",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":8,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Chase, Francis",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":20,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Cheney, Catherine",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":17,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Chirichiello, Brian",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Christensen, Chris",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":21,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Christiansen, Lars",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Christie, Andrew",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":37,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Christie, Rick",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Cilley, Jacalyn",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":4,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Cloutier, John",
+    "Party":"Democrat",
+    "County":"Sullivan",
+    "DistNum":10,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Coffey, James",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":25,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Cohen, Alan",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":30,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Comeau, Ed",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Comtois, Guy",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":7,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Converse, Larry",
+    "Party":"Democrat",
+    "County":"Sullivan",
+    "DistNum":4,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Cook, Allen",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":11,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Cooney, Mary",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":8,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Cordelli, Glenn",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Cornell, Patricia",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":18,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Cote, David",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":31,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Crawford, Karel",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Cushing, Robert",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":21,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Danielson, David",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":7,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Darrow, Stephen",
+    "Party":"Republican",
+    "County":"Grafton",
+    "DistNum":17,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Dean-Bailey, Yvonne",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":32,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"DeLemus, Susan",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":11,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Deloge, Helen",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":16,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"DeSimone, Debra",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":14,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Devine, James",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"DiFranco, Debbie",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":27,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"DiSesa, Len",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":16,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"DiSilvestro, Linda",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":9,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Doherty, David",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":20,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Donovan, Daniel",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Doucette, Fred",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":8,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Duarte, Joe",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Dumais, Russell",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":2,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Eastman, Eric",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":28,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Eaton, Daniel",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":3,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Ebel, Karen",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":5,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Edelblut, Frank",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":38,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Edwards, Elizabeth",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":11,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Elliott, Robert",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":8,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Emerick, J. Tracy",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":21,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Emerson, Susan",
+    "Party":"Republican",
+    "County":"Cheshire",
+    "DistNum":11,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Estevez, Eric",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Ferrante, Beverly",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Ferreira, Elizabeth",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":28,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Fesh, Robert",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":6,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Fields, Dennis",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Fisher, Robert",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":9,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Flanagan, Jack",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":26,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Flanders, Donald",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":3,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Ford, Susan",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":3,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Forest, Armand",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":18,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Fothergill, John",
+    "Party":"Republican",
+    "County":"Coos",
+    "DistNum":1,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Francese, Paula",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":18,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Fraser, Valerie",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":1,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Frazer, June",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":13,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Freitas, Mary",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":14,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"French, Barbara",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"French, Harold",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Friel, William",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":14,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Froburg, Alethea",
+    "Party":"Democrat",
+    "County":"Coos",
+    "DistNum":3,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Fromuth, Bart",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":7,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Gagne, Larry",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":13,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Gagnon, Raymond",
+    "Party":"Democrat",
+    "County":"Sullivan",
+    "DistNum":5,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Gallagher, Brian",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Gannon, William",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Gardner, Janice",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":15,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Gargasz, Carolyn",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":27,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Gidge, Kenneth",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":33,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Gile, Mary",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":27,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Gionet, Edmond",
+    "Party":"Republican",
+    "County":"Grafton",
+    "DistNum":5,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Goley, Jeffrey",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":8,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Gonzalez, Carlos",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":45,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Gordon, Pamela",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":29,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Gordon, Richard",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":35,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Gorman, Mary",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":31,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Gottling, Suzanne",
+    "Party":"Democrat",
+    "County":"Sullivan",
+    "DistNum":2,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Gould, Linda",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Goulette, William",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":23,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Graham, Robert",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":1,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Gray, James",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":8,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Green, Dennis",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":13,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Grenier, James",
+    "Party":"Republican",
+    "County":"Sullivan",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Griffin, Barbara",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Griffin, Mary",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Groen, Warren",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":10,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Guerette, C. Lee",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":33,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Guthrie, Joseph",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":13,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Haefner, Robert",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hagan, Joseph",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":4,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Halstead, Carolyn",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":23,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hannon, Joseph",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":25,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hansberry, Daniel",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":35,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Hansen, Peter",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":22,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Harris, Jeffrey",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":9,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Harvey, Suzanne",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":29,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Hatch, William",
+    "Party":"Democrat",
+    "County":"Coos",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Heath, Mary",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":14,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Heffron, Frank",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":18,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Henle, Paul",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":12,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Hennessey, Erin",
+    "Party":"Republican",
+    "County":"Grafton",
+    "DistNum":1,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hennessey, Martha",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":12,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Herbert, Christopher",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":43,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Hess, David",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":24,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Higgins, Patricia",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":12,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Hill, Gregory",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":3,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hinch, Richard",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":21,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hirsch, Geoffrey",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Hodgdon, Bruce",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":1,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hoell, J.R.",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":23,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hoelzel, Kathleen",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":3,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hogan, Edith",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":34,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hopper, Gary",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Horn, Werner",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":2,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Horrigan, Timothy",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Howard, Raymond",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":8,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hull, Robert",
+    "Party":"Republican",
+    "County":"Grafton",
+    "DistNum":9,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hunt, John",
+    "Party":"Republican",
+    "County":"Cheshire",
+    "DistNum":11,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Hurt, George",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Infantine, William",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":13,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Ingbretson, Paul",
+    "Party":"Republican",
+    "County":"Grafton",
+    "DistNum":15,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Introne, Robert",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Irwin, Virginia",
+    "Party":"Democrat",
+    "County":"Sullivan",
+    "DistNum":9,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Itse, Daniel",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":10,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Jack, Martin",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":36,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Jasper, Shawn",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Presiding"
+  },
+  {
+    "Representative":"Jeudy, Jean",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":10,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Johnsen, Gladys",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":7,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Johnson, Eric",
+    "Party":"Republican",
+    "County":"Grafton",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Jones, Laura",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":24,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Kaczynski, Thomas",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":22,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Kaen, Naida",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":5,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Kappler, Lawrence",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":3,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Karrick, David",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":25,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Katsakiores, Phyllis",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Katsiantonis, Thomas",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":15,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Kellogg, Shem",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":14,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Kenison, Linda",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":15,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Kidder, David",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Knowles, Robert",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":12,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Kolodziej, Walter",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Kotowski, Frank",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":24,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Kuch, Bill",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":23,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Kurk, Neal",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Lachance, Joseph",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":8,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Ladd, Rick",
+    "Party":"Republican",
+    "County":"Grafton",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Laware, Thomas",
+    "Party":"Republican",
+    "County":"Sullivan",
+    "DistNum":8,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"LeBreche, Shari",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"LeBrun, Donald",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":32,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Leeman, Don",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":23,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Leishman, Peter",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":24,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Ley, Douglas",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":9,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Long, Douglas",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":4,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Long, Patrick",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":10,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Lovejoy, Patricia",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":36,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Lundgren, David",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":5,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Luneau, David",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":10,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"MacKay, James",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":14,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Maes, Kevin",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Major, Norman",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":14,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Mangipudi, Latha",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":35,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Manley, Jonathan",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":3,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Mann, John",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":2,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Manning, John",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":8,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Marple, Richard",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":24,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Marston, Dick",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":19,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Martel, Andre",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":44,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Martin, John",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":23,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Massimilla, Linda",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":1,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Matthews, Carolyn",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":3,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"McBeath, Rebecca",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":26,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"McCarthy, Frank",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"McCarthy, Peggy",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":29,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"McClarren, Donald",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":29,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"McConkey, Mark",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":3,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"McConnell, James",
+    "Party":"Republican",
+    "County":"Cheshire",
+    "DistNum":12,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"McGuire, Carol",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":29,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"McGuire, Dan",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":21,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"McKinney, Betsy",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"McLean, Mark",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":15,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"McMahon, Charles",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"McNamara, Richard",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":38,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Milz, David",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Moffett, Howard",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":9,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Moody, Marcia",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":17,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Moore, Josh",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":21,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Moynihan, Wayne",
+    "Party":"Democrat",
+    "County":"Coos",
+    "DistNum":2,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Mullen, John",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":1,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Murotake, David",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":32,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Murphy, Keith",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Myler, Mel",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":10,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Nelson, Bill",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Nigrello, Robert",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":16,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Nordgren, Sharon",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":12,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Notter, Jeanine",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":21,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"O'Brien, Michael",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":36,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"O'Brien, William",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":5,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"O'Connor, John",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"O'Hearne, Andrew",
+    "Party":"Democrat",
+    "County":"Sullivan",
+    "DistNum":3,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"O'Neil, William",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":9,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Ober, Lynne",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Ober, Russell",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Ohm, Bill",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":36,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Oligny, Jeffrey",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":34,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Osborne, Jason",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Oxenham, Lee",
+    "Party":"Democrat",
+    "County":"Sullivan",
+    "DistNum":1,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Packard, Sherman",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Palmer, Barry",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":32,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Pantelakos, Laura",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":25,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Parent, Jason",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":26,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Parison, James",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":25,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Parker, Harold",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Parkhurst, Henry",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":13,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Patten, Dick",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":17,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Pearson, William",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":4,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Peckham, Michele",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":22,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Pellegrino, Anthony",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":21,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Peterson, Ken",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Phillips, Larry",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":16,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Pierce, David",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Piper, Wendy",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":10,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Pitre, Joseph",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Porter, Marjorie",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":1,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Potucek, John",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Priestley, Anne",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":8,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Proulx, Mark",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":44,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Prudhomme-O'Brien, Katherine",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Rappaport, Laurence",
+    "Party":"Republican",
+    "County":"Coos",
+    "DistNum":1,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Ratzki, Mario",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":1,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Rice, Chip",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":27,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Rice, Frederick",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":21,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Rice, Kimberly",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Richardson, Herbert",
+    "Party":"Republican",
+    "County":"Coos",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Rideout, Leon",
+    "Party":"Republican",
+    "County":"Coos",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Roberts, Carol",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":4,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Roberts, Kris",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":16,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Robertson, Timothy",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Rogers, Katherine",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":28,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Rokas, Ted",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":12,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Rollins, Skip",
+    "Party":"Republican",
+    "County":"Sullivan",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Rollo, Deanna",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":18,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Rosenwald, Cindy",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":30,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Rouillard, Claire",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Rowe, Robert",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":22,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Russell, David",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":5,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Sad, Tara",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":1,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Sanborn, Laurie",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":41,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Sanders, Elisabeth",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":12,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Saunderson, George",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":9,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Schleien, Eric",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Schmidt, Andrew",
+    "Party":"Democrat",
+    "County":"Sullivan",
+    "DistNum":1,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Schmidt, Peter",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":19,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Schmidt, Stephen",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Schroadter, Adam",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":17,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Schuett, Dianne",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":20,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Scontsas, Lisa",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":30,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Seaworth, Brian",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":20,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Seidel, Carl",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":28,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Shackett, Jeffrey",
+    "Party":"Republican",
+    "County":"Grafton",
+    "DistNum":9,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Shattuck, Gilman",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":1,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Shaw, Barbara",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":16,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Shepardson, Marjorie",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":10,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Sherman, Thomas",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":24,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Shurtleff, Stephen",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":11,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Silva, Peter",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":35,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Simmons, Tammy",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":17,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Simpson, Alexis",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":18,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Smith, Gregory",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Smith, Marjorie",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Smith, Steven",
+    "Party":"Republican",
+    "County":"Sullivan",
+    "DistNum":11,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Smith, Suzanne",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":8,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Smith, Timothy",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":17,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Snow, Kendall",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":42,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Soucy, Timothy",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":34,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Southworth, Thomas",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":20,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Souza, Kathleen",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":43,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Spang, Judith",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Spanos, Peter",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":3,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Spillane, James",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Sprague, Dale",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":18,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Stepanek, Stephen",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":22,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Sterling, Franklin",
+    "Party":"Republican",
+    "County":"Cheshire",
+    "DistNum":14,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Stevens, Audrey",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":7,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Straight, Phillip",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":21,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Sullivan, Daniel",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":42,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Sullivan, Victoria",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":16,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Sweeney, Joe",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":8,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Sweeney, Shawn",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":23,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Sykes, George",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":13,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Sylvia, Michael",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Sytek, John",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":8,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Takesian, Charlene",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Tamburello, Daniel",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Tatro, Bruce",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":15,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Theberge, Robert",
+    "Party":"Democrat",
+    "County":"Coos",
+    "DistNum":3,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Tholl, John",
+    "Party":"Republican",
+    "County":"Coos",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Thomas, Douglas",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":5,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Thomas, Yvonne",
+    "Party":"Democrat",
+    "County":"Coos",
+    "DistNum":3,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Ticehurst, Susan",
+    "Party":"Democrat",
+    "County":"Carroll",
+    "DistNum":3,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Tilton, Benjamin",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":12,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Tilton, Franklin",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":3,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Tilton, Rio",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":20,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Townsend, Charles",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":11,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Treleaven, Susan",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":17,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"True, Chris",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Tucker, Pamela",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":23,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Turcotte, Alan",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":22,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Turcotte, Leonard",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":4,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Twombly, Timothy",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":34,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Ulery, Jordan",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":37,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Umberger, Karen",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Vadney, Herbert",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":2,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Vann, Ivy",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":24,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Varney, Peter",
+    "Party":"Republican",
+    "County":"Belknap",
+    "DistNum":5,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Verschueren, James",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":13,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Vose, Michael",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":9,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Wall, Janet",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":6,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Wallner, Mary Jane",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":10,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Walsh, Robert",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":11,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Walsh, Thomas",
+    "Party":"Republican",
+    "County":"Merrimack",
+    "DistNum":24,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Ward, Gerald",
+    "Party":"Democrat",
+    "County":"Rockingham",
+    "DistNum":28,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Ward, Joanne",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":19,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Ward, Kenneth",
+    "Party":"Democrat",
+    "County":"Strafford",
+    "DistNum":21,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Webb, James",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":6,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Weber, Lucy",
+    "Party":"Democrat",
+    "County":"Cheshire",
+    "DistNum":1,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Welch, David",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":13,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Weyler, Kenneth",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":13,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Wheeler, Deborah",
+    "Party":"Democrat",
+    "County":"Merrimack",
+    "DistNum":3,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"White, Andrew",
+    "Party":"Democrat",
+    "County":"Grafton",
+    "DistNum":13,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Whitehouse, Joshua",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":2,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Williams, Kermit",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":4,
+    "Vote":"Nay"
+  },
+  {
+    "Representative":"Woitkun, Steven",
+    "Party":"Republican",
+    "County":"Rockingham",
+    "DistNum":33,
+    "Vote":"Not Voting/Not Excused"
+  },
+  {
+    "Representative":"Wolf, Terry",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":7,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Woodbury, David",
+    "Party":"Democrat",
+    "County":"Hillsborough",
+    "DistNum":5,
+    "Vote":"Not Voting/Excused"
+  },
+  {
+    "Representative":"Wright, Ted",
+    "Party":"Republican",
+    "County":"Carroll",
+    "DistNum":8,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Wuelper, Kurt",
+    "Party":"Republican",
+    "County":"Strafford",
+    "DistNum":3,
+    "Vote":"Yea"
+  },
+  {
+    "Representative":"Zaricki, Nick",
+    "Party":"Republican",
+    "County":"Hillsborough",
+    "DistNum":6,
+    "Vote":"Not Voting/Not Excused"
+  }
+]

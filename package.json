@@ -1,0 +1,35 @@
+{
+  "name": "map1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.7.4",
+    "leaflet": "^0.7.7",
+    "material-design-icons": "^2.2.3",
+    "material-ui": "^0.14.4",
+    "meteor-node-stubs": "^0.2.1",
+    "qwest": "^4.2.1",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-leaflet": "^0.10.2",
+    "react-redux": "^4.4.0",
+    "react-router": "^2.0.0",
+    "react-tap-event-plugin": "^0.2.2",
+    "redux": "^3.3.1",
+    "shpjs": "^3.3.1",
+    "whatwg-fetch": "^0.11.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^5.0.0",
+    "eslint": "^2.2.0",
+    "eslint-config-airbnb": "^6.0.2",
+    "eslint-plugin-react": "^4.1.0"
+  }
+}

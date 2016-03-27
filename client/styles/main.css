@@ -1,0 +1,77 @@
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#my-render-target {
+  margin: 0;
+  padding: 0;
+}
+#mainFrame {
+  display: flex;
+  flex-direction: column;
+  height:100vh;
+  margin: 0;
+  padding: 0;
+}
+#header,#footer {
+  flex:none;
+}
+
+#content {
+  flex: auto;
+  position: relative;
+}
+#mapUI, #map {
+  position: absolute;
+  top:0; bottom:0; left:0; right: 0;
+}
+
+.leaflet-div-icon {
+  background: none;
+  border: none;
+  justify-content: center;
+  text-align:center;
+  line-height:8px;
+}
+
+.leaflet-control {
+  background-color: white;
+  box-shadow: 0px 4px 4px gray;
+}
+
+.infobox {
+  padding: 5px;
+  min-width:200px;
+}
+
+.district, .legend {
+  margin-top: 10px;
+  border-bottom: 1px grey;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.legend {
+  margin-bottom: 10px;
+}
+td {
+  padding: 0 5px 0 5px;
+}
+
+.square {
+  height: 20px;
+  width: 20px;
+  background-color:red;
+}
+
+/* Darken features on CartoDB Positron map */
+.leaflet-tile {
+  -webkit-filter: brightness(66%) contrast(400%) ;
+  filter: brightness(66%) contrast(400%) ;
+}
