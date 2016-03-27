@@ -3,174 +3,12 @@ import ReactDOM from 'react-dom';
 import ThemeManager from 'material-ui/lib/styles/theme-manager';
 import MyRawTheme from './myRawTheme';
 import MainFrame from './mainFrame.jsx';
-import GeoMap from './mymap/myMapCon.jsx';
-import {Map as LMap, TileLayer, GeoJson, Marker, MapControl, LayersControl} from 'react-leaflet';
+import {Map as LMap, TileLayer, GeoJson, Marker} from 'react-leaflet';
 import L from 'leaflet'
 import shp from 'shpjs';
-import ReactDOMServer from 'react-dom/server'
 import 'whatwg-fetch';
-
-var highVoteVal = 0;
-var lowVoteVal = 0;
-
-class InfoBox extends MapControl {
-
-  componentWillMount() {
-    const MyLControl = L.Control.extend({
-
-      onAdd: function (map) {
-        // create the control container with a particular class name
-        var container = L.DomUtil.create('div', 'leaflet-control infobox');
-
-        // ... initialize other DOM elements, add listeners, etc.
-
-        return container;
-      }
-    })
-    this.leafletElement = new MyLControl(this.props);
-    //this.leafletElement.addTo(this.props.map);
-  }
-
-  componentDidMount() {
-    super.componentDidMount();
-  }
-
-
-  render() {
-    function url(voteVal, isFlot) {
-      const flot = isFlot ? 'Flot' : '';
-      if (voteVal > 0) return `icon/NayRail${flot}.png`
-      else if (voteVal < 0) return `icon/YeaRail${flot}.png`
-      else return `icon/AbstainOrNoVote${flot}.png`;
-    }
-
-    function img(voteVal, isFlot) {
-      return <img src={url(voteVal, isFlot)} height="20" width="20" />
-    }
-
-    function renderVoteRow(v, isFlot) {
-      return <tr key={v.Representative}>
-        <td>{img(v.voteVal, isFlot)}</td>
-        <td>{v.Representative}</td>
-        <td>{v.voteVal==-1?'For Rail': (v.voteVal==1?'Against Rail':v.Vote)}</td>
-      </tr>
-    }
-
-    const districtVote = this.props.districtVote;
-    const container = this.leafletElement.getContainer();
-    var shtml = '';
-    if (districtVote) {
-      const floterial = districtVote.floterial ? (
-        <div>
-          <div className='district'>Floterial District: {districtVote.floterial.districtId}</div>
-          <table>
-            <tbody>
-            {districtVote.floterial.votes.map(v=>renderVoteRow(v, true))}
-            </tbody>
-          </table>
-        </div>
-      ) : null;
-      const html = (
-        <div>
-          <div className='district'>District: {districtVote.districtId}</div>
-          <table>
-            <tbody>
-            {districtVote.votes.map(v=>renderVoteRow(v, false))}
-            </tbody>
-          </table>
-          {floterial}
-        </div>
-      )
-      shtml = ReactDOMServer.renderToStaticMarkup(html)
-    }
-    if (container) container.innerHTML = shtml;
-    return null;
-  }
-
-}
-
-class LegendBox extends MapControl {
-
-  componentWillMount() {
-    const MyLControl = L.Control.extend({
-
-      onAdd: function (map) {
-        // create the control container with a particular class name
-        var container = L.DomUtil.create('div', 'leaflet-control infobox');
-
-        // ... initialize other DOM elements, add listeners, etc.
-
-        return container;
-      }
-    })
-    this.leafletElement = new MyLControl(this.props);
-    //this.leafletElement.addTo(this.props.map);
-  }
-
-  componentDidMount() {
-    super.componentDidMount();
-  }
-
-
-  render() {
-    function url(voteVal, isFlot) {
-      const flot = isFlot ? 'Flot' : '';
-      if (voteVal > 0) return `icon/NayRail${flot}.png`
-      else if (voteVal < 0) return `icon/YeaRail${flot}.png`
-      else return `icon/AbstainOrNoVote${flot}.png`;
-    }
-
-    function img(voteVal, isFlot) {
-      return <img src={url(voteVal, isFlot)} height="20" width="20" />
-    }
-
-    function renderVoteRow(v, isFlot) {
-      return <tr key={v.Representative}>
-        <td>{img(v.voteVal, isFlot)}</td>
-        <td>{v.Representative}</td>
-        <td>{v.Vote}</td>
-      </tr>
-    }
-
-    function fillStyle(vote) {
-      const backgroundColor = vote < 0 ? 'green' : 'red';
-      const opacity = vote ? (Math.log2(1 + Math.abs(vote)) * .15) : 0
-      return {backgroundColor, opacity}
-    }
-    const container = this.leafletElement.getContainer();
-    const colorRows = [];
-    var netVotes = -5;
-    while ( netVotes <= 9 ) {
-      const desc = (netVotes != 0) ? `Net ${Math.abs(netVotes)} votes ${netVotes<0?'for':'against'} Rail` : 'Votes Even'
-      colorRows.push(
-        <tr key={netVotes}><td><div className='square' style={fillStyle(netVotes)}/></td><td>{desc}</td></tr>
-      )
-      netVotes += 1;
-    }
-
-    var shtml = '';
-    const html = (
-      <div>
-        <div className='legend'>Icons</div>
-        <table><tbody>
-          <tr><td>{img(-1)}</td><td>Voted For Passenger Rail</td></tr>
-          <tr><td>{img(1)}</td><td>Against Passenger Rail</td></tr>
-          <tr><td>{img(0)}</td><td>Absent / Abstained</td></tr>
-          <tr><td>{img(-1,true)}{img(1,true)}{img(0,true)}</td><td>Floterial</td></tr>
-        </tbody></table>
-        <div className='legend'>Shading</div>
-        <table><tbody>
-        {colorRows}
-        </tbody></table>
-      </div>
-    )
-    shtml = ReactDOMServer.renderToStaticMarkup(html)
-    if (container) container.innerHTML = shtml;
-    return null;
-  }
-
-}
-
+import RepInfoBox from './repInfoBox/repInfoBoxPres.jsx'
+import LegendBox from './legendBox/legendBoxPres.jsx'
 
 function loadShapefile(url) {
   const pShapefile = shp(url);
@@ -184,11 +22,10 @@ function loadJson(url) {
   return pJson
 }
 
+// todo factor out into common module; duplicated in legendBox.
 function shapeStyle(feature, highlight) {
   const districtVote = feature.properties.vote;
   const voteVal = districtVote.voteVal;
-  highVoteVal = Math.max(highVoteVal, voteVal);
-  lowVoteVal = Math.min(lowVoteVal, voteVal);
   return {
     weight: 4,
     color: highlight ? '#bee' : '#cdd',
@@ -418,7 +255,7 @@ class App extends React
           <GeoJson id='reps' data={this.state.districtCentroids}
                    pointToLayer={this.drawMarker}
                    onEachFeature={this.onEachMarker.bind(this)}/>}
-          <InfoBox districtVote={this.state.currentDistrictVote} position='topright'/>
+          <RepInfoBox districtVote={this.state.currentDistrictVote} position='topright'/>
           <LegendBox position='bottomright'/>
         </LMap>
       </MainFrame>
