@@ -2,6 +2,7 @@ import React from 'react';
 import L from 'leaflet'
 import ReactDOMServer from 'react-dom/server'
 import {MapControl} from 'react-leaflet';
+import {shapeStyle} from '../map/mapPres.jsx'
 
 export default class LegendBox extends MapControl {
 

@@ -1,12 +1,13 @@
 import 'babel-polyfill';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './app.jsx';
+import App from './components/app/appCon.jsx';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 import {createStore, applyMiddleware} from 'redux';
 import { Provider } from 'react-redux';
 import appReducer from './reducers.js';
 import { logger } from './middleware.js';
+import thunk from 'redux-thunk';
 
 /* global Meteor */
 Meteor.startup(
@@ -20,7 +21,7 @@ Meteor.startup(
       : createStore;
 
     // Create the global redux store, wrapping the dispatcher with our logger.
-    const store = creator(appReducer, {}, applyMiddleware(logger));
+    const store = creator(appReducer, {}, applyMiddleware(logger, thunk));
 
     ReactDOM.render((
       // provide the store to all components

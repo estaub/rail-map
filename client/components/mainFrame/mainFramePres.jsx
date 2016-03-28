@@ -1,5 +1,5 @@
 import React from 'react';
-import MainHeader from './mainHeader/mainHeaderCon.js';
+import MainHeader from '../mainHeader/mainHeaderCon.js';
 /*
  CONCEPTS
  props again, local state, refs,

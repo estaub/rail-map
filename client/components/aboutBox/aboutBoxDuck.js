@@ -1,4 +1,4 @@
-import { makeTypeFactory, ABOUT_BOX } from '../actions.js';
+import { makeTypeFactory, ABOUT_BOX } from '../../actions.js';
 
 const makeType = makeTypeFactory(ABOUT_BOX); // make type function
 
